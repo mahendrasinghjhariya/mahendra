@@ -1,2 +1,0 @@
-# mahendra
-Titanic Data
